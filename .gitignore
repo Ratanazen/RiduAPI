@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment & local stores
+.env
+.env.*
+*.local
+ridu-api-store.json
+.ridu-api-store.json
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
